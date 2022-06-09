@@ -10,7 +10,7 @@ The CSS file was also restructured so that elements and classes are grouped toge
 
 ## Screenshot
 
-![Screenshot of page](./Develop/assets/images/page-screenshot.png)
+![Screenshot of page](./assets/images/page-screenshot.png)
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
